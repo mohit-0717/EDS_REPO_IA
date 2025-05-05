@@ -18,3 +18,7 @@
 4. **EDS Laboratory Assignments (Codetantra)**  
    🖼️ Screenshot:  
    ![EDS Assignment Screenshot](Screenshot%202025-05-05%20211534.png)
+
+5. **Theory Assignment Screenshot**  
+   🖼️  
+   ![Theory Assignment](theo_100.png)
