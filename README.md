@@ -1,4 +1,7 @@
-# 📘 Essentials of Data Science – Mohit-0717
+# 📘 Essentials of Data Science –
+# Name: Mohit Bankhele 
+# PRN : 202401040059
+# Div : CS2
 
 ## 📎 Resources and Certificates
 
